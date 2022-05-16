@@ -46,8 +46,127 @@ const App = () => {
                     <View style={style.button}>
                         <Text style={[style.defaultText, style.textButton]}>Open in Github</Text>
                     </View>
-                </Pressable>
+                </Pressable> 
+                <View style={style.containerEfect}> 
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                    <View style={style.box} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={[style.box, style.boxLightGreen]} />
+                    <View style={style.box} />
+                </View>            
+                
             </View>
+           
+            
+
+            
         </SafeAreaView>
     );
 };
@@ -58,15 +177,15 @@ const style = StyleSheet.create({
     container: {
         // Column
         backgroundColor: colorGithub,
-        flex: 1, // Expandir para a tela inteira
+        flex: 1,        
         justifyContent: 'center',
-        alignItems: 'center',
-        // flexDirection: 'row',       
+        alignItems: 'center',              
 
     },
     content: {
         alignItems: 'center',
         padding: 20,
+        
 
     },
     avatar: {
@@ -101,5 +220,38 @@ const style = StyleSheet.create({
     textButton: {
         fontSize: 14,
         fontWeight: 'bold',
+    },
+    box: {
+        width: 15,
+        height: 15,        
+        backgroundColor: 'darkolivegreen',        
+        borderRadius: 4,
+        marginLeft: 3,
+        marginBottom: 3,             
+
+    },
+    
+    boxLightGreen: {
+        width: 15,
+        height: 15,        
+        backgroundColor: 'chartreuse',        
+        borderRadius: 4,
+        marginLeft: 3,
+        marginBottom: 3
+
+    },
+
+    containerEfect: {
+               
+        flex: 1, 
+        flexDirection: 'row',
+        flexWrap: 'wrap',
+        width: 300,
+        //justifyContent: 'center',
+        alignItems: 'center',        
+        //alignContent: 'flex-end',
+        marginTop: 10,
+        justifyContent: 'space-evenly'             
+
     },
 });
