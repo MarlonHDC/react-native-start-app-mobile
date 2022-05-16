@@ -1,7 +1,7 @@
 # Introdução ao React Native
 # Criação de um app simples de acesso ao Github com React Native
 
-![image](https://user-images.githubusercontent.com/94640918/168597120-b3b0705d-55af-43ca-abed-76bc0652ae62.png)
+![image](https://user-images.githubusercontent.com/94640918/168645980-e19ad4b7-040f-48c3-88bb-75824a5ee777.png)
 
 # Conteúdo
 - Conhecendo o React Native
